@@ -13,7 +13,7 @@ import json
 load_dotenv()
 
 # Set Google Application Credentials
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] =  "/Users/krishna/Desktop/LLM_EXCEL/mysql-435509-7225659bfe4d.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] =  "mysql-435509-7225659bfe4d.json"
 import os
 import certifi
 
